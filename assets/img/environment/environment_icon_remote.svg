@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="environment_icon_remote" transform="translate(-715 -949)">
+    <circle id="楕円形_1" data-name="楕円形 1" cx="40" cy="40" r="40" transform="translate(715 949)" fill="#1f2020"/>
+    <path id="パス_256" data-name="パス 256" d="M26.28,22.32h2.4v-2.4h-2.4ZM6.32,18.36v0Zm19.96-2.84h2.4v-2.4h-2.4Zm0-6.84h2.4v-2.4h-2.4ZM15.36,18.36v0ZM2.4,14.44,10.84,8.4l8.4,6.04V26.4H15.36V18.36H6.32V26.4H2.4ZM0,13.2V28.8H8.72V20.76h4.24V28.8h8.68V13.2L10.84,5.44ZM14.6,0V5.2L17,6.88V2.4H32.8v24H24.04v2.4H35.2V0Z" transform="translate(737.4 974)" fill="#fff"/>
+  </g>
+</svg>

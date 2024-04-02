@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_244" data-name="長方形 244" width="24.64" height="35.2" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="environment_icon_newyear" transform="translate(-183 -1782)">
+    <circle id="楕円形_10" data-name="楕円形 10" cx="40" cy="40" r="40" transform="translate(183 1782)" fill="#1f2020"/>
+    <g id="グループ_752" data-name="グループ 752" transform="translate(211 1804)">
+      <g id="グループ_751" data-name="グループ 751" clip-path="url(#clip-path)">
+        <path id="パス_288" data-name="パス 288" d="M2.64,33.44a2.547,2.547,0,0,1-1.87-.77A2.547,2.547,0,0,1,0,30.8V10.12A2.968,2.968,0,0,1,.9,7.942a2.968,2.968,0,0,1,2.178-.9H7.04V1.32A1.279,1.279,0,0,1,8.36,0h7.92A1.279,1.279,0,0,1,17.6,1.32V7.04H22a2.629,2.629,0,0,1,2.64,2.64V30.8A2.629,2.629,0,0,1,22,33.44a1.76,1.76,0,1,1-3.52,0H6.16A1.729,1.729,0,0,1,4.4,35.2a1.729,1.729,0,0,1-1.76-1.76M8.8,7.04h7.04V1.76H8.8ZM2.64,30.8H22V9.68H2.64Zm3.08-2.64H7.48V12.32H5.72Zm5.72,0H13.2V12.32H11.44Zm5.72,0h1.76V12.32H17.16ZM2.64,30.8h0v0Z" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

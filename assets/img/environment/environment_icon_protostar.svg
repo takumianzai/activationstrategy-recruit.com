@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="environment_icon_protostar" transform="translate(-183 -1134)">
+    <circle id="楕円形_1" data-name="楕円形 1" cx="40" cy="40" r="40" transform="translate(183 1134)" fill="#1f2020"/>
+    <path id="パス_257" data-name="パス 257" d="M2.532,23.433H6.967v4.434H2.532Zm20.9,0h4.434v4.434H23.432Zm-20.9-6.967H6.967V20.9H2.532Zm6.968,0h4.433V20.9H9.5Zm6.967,0H20.9V20.9H16.467Zm6.966,0h4.434V20.9H23.432ZM2.532,9.5H6.967v4.433H2.532ZM9.5,9.5h4.433v4.433H9.5Zm6.967,0H20.9v4.433H16.467ZM9.5,2.533h4.433V6.968H9.5Zm6.967,0H20.9V6.968H16.467ZM6.967,0V6.967H0V30.4H12.962V23.433h4.475V30.4H30.4V13.933H23.432V0Z" transform="translate(207.8 1158)" fill="#fff"/>
+  </g>
+</svg>

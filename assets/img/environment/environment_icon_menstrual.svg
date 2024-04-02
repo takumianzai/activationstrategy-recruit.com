@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_243" data-name="長方形 243" width="31.2" height="35.2" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="environment_icon_menstrual" transform="translate(-715 -2245)">
+    <circle id="楕円形_16" data-name="楕円形 16" cx="40" cy="40" r="40" transform="translate(715 2245)" fill="#1f2020"/>
+    <g id="グループ_750" data-name="グループ 750" transform="translate(739.8 2268)">
+      <g id="グループ_749" data-name="グループ 749" clip-path="url(#clip-path)">
+        <path id="パス_287" data-name="パス 287" d="M0,35.2V11.733L15.6,0,31.2,11.733V35.2Zm2.925-2.933h25.35V13.2L15.6,3.667,2.925,13.2ZM5.85,29.333H7.8V26.4H23.4v2.933h1.95V21.511a3.917,3.917,0,0,0-3.9-3.911H14.625v6.844H7.8v-8.8H5.85Zm5.363-5.867a2.444,2.444,0,1,0-1.731-4.18,2.444,2.444,0,0,0,1.731,4.18m-8.288,8.8h0Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

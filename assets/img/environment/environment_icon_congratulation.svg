@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_237" data-name="長方形 237" width="32" height="33.6" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="environment_icon_congratulation" transform="translate(-715 -1782)">
+    <circle id="楕円形_9" data-name="楕円形 9" cx="40" cy="40" r="40" transform="translate(715 1782)" fill="#1f2020"/>
+    <g id="グループ_738" data-name="グループ 738" transform="translate(739 1805)">
+      <g id="グループ_737" data-name="グループ 737" clip-path="url(#clip-path)">
+        <path id="パス_281" data-name="パス 281" d="M0,33.6V21.24l6.6-2.92V13.08l8.2-4.2V5.6H11.6V3.2h3.2V0h2.4V3.2h3.2V5.6H17.2V8.88l8.2,4.2v5.24L32,21.24V33.6H18V27.2a2,2,0,1,0-4,0v6.4Zm2.4-2.4h9.2V27.12a4.379,4.379,0,0,1,1.28-3.16,4.347,4.347,0,0,1,6.24,0,4.379,4.379,0,0,1,1.28,3.16V31.2h9.2V22.64L23,19.72V14.4l-7-3.64L9,14.4v5.32L2.4,22.64ZM16,19.8a2.185,2.185,0,1,0-1.56-.64A2.123,2.123,0,0,0,16,19.8m0,1.16h0" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
